@@ -42,5 +42,6 @@ pyenv global 3.11
 ```
 
 ## Reference Docs
+https://github.com/pyenv/pyenv?tab=readme-ov-file#installation
 https://gist.github.com/luzfcb/1a7f64adf5d12c2d357d0b4319fe9dcd
 https://gist.github.com/luzfcb/ef29561ff81e81e348ab7d6824e14404
